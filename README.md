@@ -3,6 +3,8 @@
 ## Purpose 
 The purpose of this project was to create visualizations using Tableau in order to create a proposal for how a bikeshare program would work in Des Moines, Iowa. The visualizations will be based on citibike data gathered in New York City, New York. This project consists of 7 visualizations and a story that depicts how a bikeshare program would operate in Des Moines, Iowa. 
 
+[link to dashboard] (https://public.tableau.com/app/profile/michael.kori/viz/NYC_Citibike_Challenge_16289989791860/CheckoutTimesforUsers) 
+
 ### Results
 This visualization shows that out of the 2,344,224 rides in August in New York City, the vast majority of rides were less than one hour long.
 <img width="963" alt="Screen Shot 2021-08-14 at 8 39 42 PM" src="https://user-images.githubusercontent.com/83051034/129465199-8cde7912-102e-4594-a378-693ee5cd2282.png">
